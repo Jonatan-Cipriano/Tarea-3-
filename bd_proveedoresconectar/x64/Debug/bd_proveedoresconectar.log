@@ -1,0 +1,7 @@
+﻿  bd_proveedoresconectar.cpp
+C:\Users\Windows 10\Desktop\Tarea 3 para examen\bd_proveedoresconectar\bd_proveedoresconectar\bd_proveedoresconectar.cpp(79,9): error C2371: 'id': nueva definición; tipos básicos distintos
+C:\Users\Windows 10\Desktop\Tarea 3 para examen\bd_proveedoresconectar\bd_proveedoresconectar\bd_proveedoresconectar.cpp(66): message : vea la declaración de 'id'
+C:\Users\Windows 10\Desktop\Tarea 3 para examen\bd_proveedoresconectar\bd_proveedoresconectar\bd_proveedoresconectar.cpp(80,2): error C2146: error de sintaxis: falta ';' delante del identificador 'string'
+C:\Users\Windows 10\Desktop\Tarea 3 para examen\bd_proveedoresconectar\bd_proveedoresconectar\bd_proveedoresconectar.cpp(80,199): error C2088: '+': no es válido para class
+C:\Users\Windows 10\Desktop\Tarea 3 para examen\bd_proveedoresconectar\bd_proveedoresconectar\bd_proveedoresconectar.cpp(81,18): error C2065: 'insert': identificador no declarado
+C:\Users\Windows 10\Desktop\Tarea 3 para examen\bd_proveedoresconectar\bd_proveedoresconectar\bd_proveedoresconectar.cpp(10): fatal error C1075: "{": no se encontró ningún token coincidente
